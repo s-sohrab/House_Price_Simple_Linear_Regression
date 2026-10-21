@@ -43,10 +43,10 @@ You can run the notebook directly in Google Colab. The required libraries are st
 ```bash
 pip install numpy pandas matplotlib scikit-learn
 ```
-**Acknowledgements**
+## **Acknowledgements**
 Special thanks are extended to the following individuals for their invaluable guidance, academic support, and instruction throughout this project:
 Project Supervisor & Instructor: **Dr. Mohammad Ali Javadzadeh**
 Teaching Assistant: **Dr. Ali Jaleh Karimi**
 
-**License**
+## **License**
 This project is open-source and available for educational and academic purposes
